@@ -33,11 +33,6 @@ The model was trained using a **Random Forest Classifier** , using the **Pima In
 
 ---
 
-## 🖼️ Screenshot
-
-> _You can add a screenshot or GIF here showing the app interface._
-
----
 
 ## 🚀 How to Run Locally
 
@@ -47,10 +42,12 @@ The model was trained using a **Random Forest Classifier** , using the **Pima In
    cd Diabetes-Risk-Prediction
 
 2. **Install dependencies**
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
-4. **Run the app**
+3. **Run the app**
+   ```bash 
    streamlit run Home.py
 
 
